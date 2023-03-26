@@ -1,0 +1,1107 @@
+{
+    "enraged": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To fill with rage; to provoke to frenzy or madness; to make furious.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Angered, made furious, made full of rage.",
+            "example": ""
+        }
+    ],
+    "livid": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Having a dark, bluish appearance.",
+            "example": ""
+        }
+    ],
+    "fuming": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To expose (something) to fumes; specifically, to expose wood, etc., to ammonia in order to produce dark tints.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "noun",
+            "definition": "The act of one who fumes or shows suppressed anger.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "That fumes.",
+            "example": ""
+        }
+    ],
+    "repulsed": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To repel or drive back.",
+            "example": "to repulse an assault; to repulse the enemy"
+        }
+    ],
+    "disgusted": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To cause an intense dislike for something.",
+            "example": "It disgusts me to see her chew with her mouth open."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Filled with disgust",
+            "example": "The sight of the squirming mass of maggots left me disgusted."
+        }
+    ],
+    "anxious": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Nervous and worried.",
+            "example": ""
+        }
+    ],
+    "apprehensive": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Anticipating something with anxiety or fear.",
+            "example": ""
+        }
+    ],
+    "pessimistic": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Marked by pessimism and little hopefulness; expecting the worst.",
+            "example": "a pessimistic view of the future"
+        }
+    ],
+    "alienated": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To convey or transfer to another, as title, property, or right; to part voluntarily with ownership of.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Isolated; excluded; estranged.",
+            "example": ""
+        }
+    ],
+    "panicked": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To feel overwhelming fear.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Experiencing or in a state of panic.",
+            "example": ""
+        }
+    ],
+    "despair": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "Loss of hope; utter hopelessness; complete despondency.",
+            "example": "He turned around in despair, aware that he was not going to survive"
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To give up as beyond hope or expectation; to despair of.",
+            "example": ""
+        }
+    ],
+    "frightened": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To cause to feel fear; to scare; to cause to feel alarm or fright.",
+            "example": "Avery puts a sheet over her head, pretending to be a ghost to frighten Emily."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Afraid; suffering from fear.",
+            "example": ""
+        }
+    ],
+    "furious": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Feeling great anger; raging; violent.",
+            "example": "a furious animal; parent furious at their child's behaviour"
+        }
+    ],
+    "frustrated": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To disappoint or defeat; to vex by depriving of something expected or desired.",
+            "example": "It frustrates me to do all this work and then lose it all."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Foiled, stopped, disappointed.",
+            "example": ""
+        }
+    ],
+    "troubled": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To disturb, stir up, agitate (a medium, especially water).",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Anxious, worried, careworn.",
+            "example": ""
+        }
+    ],
+    "glum": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Despondent; moody; sullen",
+            "example": ""
+        }
+    ],
+    "morose": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Sullen, gloomy; showing a brooding ill humour.",
+            "example": ""
+        }
+    ],
+    "miserable": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "A miserable person; a wretch.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "In a state of misery: very sad, ill, or poor.",
+            "example": ""
+        }
+    ],
+    "despondent": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "In low spirits from loss of hope or courage.",
+            "example": ""
+        }
+    ],
+    "depressed": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To press down.",
+            "example": "Depress the upper lever to start the machine."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Unhappy; despondent",
+            "example": ""
+        }
+    ],
+    "hopeless": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Without hope; despairing; not expecting anything positive.",
+            "example": ""
+        }
+    ],
+    "stressed": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To apply force to (a body or structure) causing strain.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Suffering stress (either physical or mental).",
+            "example": ""
+        }
+    ],
+    "angry": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Displaying or feeling anger.",
+            "example": "An angry mob started looting the warehouse."
+        }
+    ],
+    "worried": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Thinking about unpleasant things that have happened or that might happen; feeling afraid and unhappy.",
+            "example": "She was worried about her son who had been sent off to fight in the war."
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To be troubled; to give way to mental anxiety or doubt.",
+            "example": "Stop worrying about your test, it’ll be fine."
+        }
+    ],
+    "concerned": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To relate or belong to; to have reference to or connection with; to affect the interest of; to be of importance to.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Showing concern.",
+            "example": "There was a concerned expression on her face as I told her the news."
+        }
+    ],
+    "disappointed": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To sadden or displease (someone) by underperforming, or by not delivering something promised or hoped for.",
+            "example": "His lack of respect disappointed her."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Defeated of expectations or hope; experiencing disappointment; let down.",
+            "example": "After all his anticipation, the trip left him deeply disappointed."
+        }
+    ],
+    "discouraged": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To extinguish the courage of; to dishearten; to depress the spirits of; to deprive of confidence; to deject.",
+            "example": "Don't be discouraged by the amount of work left to do: you'll finish it in good time."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Having lost confidence or hope; dejected; disheartened.",
+            "example": ""
+        }
+    ],
+    "lonely": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Unhappy because of feeling isolated from contact with other people.",
+            "example": ""
+        }
+    ],
+    "sullen": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "One who is solitary, or lives alone; a hermit.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Having a brooding ill temper; sulky.",
+            "example": ""
+        }
+    ],
+    "desolate": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To deprive of inhabitants.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Deserted and devoid of inhabitants.",
+            "example": "a desolate isle; a desolate wilderness; a desolate house"
+        }
+    ],
+    "jittery": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Nervy, jumpy, on edge",
+            "example": ""
+        }
+    ],
+    "tense": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "(grammar) Any of the forms of a verb which distinguish when an action or state of being occurs or exists.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "(grammar) To apply a tense to.",
+            "example": "tensing a verb"
+        }
+    ],
+    "nervous": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Of sinews and tendons.",
+            "example": ""
+        }
+    ],
+    "irritated": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To provoke impatience, anger, or displeasure in.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Experiencing a feeling of irritation.",
+            "example": ""
+        }
+    ],
+    "uneasy": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Not easy; difficult.",
+            "example": ""
+        }
+    ],
+    "down": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "A negative aspect; a downer.",
+            "example": "I love almost everything about my job. The only down is that I can't take Saturdays off."
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To knock (someone or something) down; to cause to come down, to fell.",
+            "example": "A single rifle shot downed the mighty beast."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Sad, unhappy, depressed, feeling low.",
+            "example": "Mary seems very down since she split up with her boyfriend."
+        },
+        {
+            "partOfSpeech": "adverb",
+            "definition": "From a higher position to a lower one; downwards.",
+            "example": "The cat jumped down from the table."
+        },
+        {
+            "partOfSpeech": "preposition",
+            "definition": "From the higher end to the lower of.",
+            "example": "The ball rolled down the hill."
+        }
+    ],
+    "sad": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To make melancholy; to sadden or grieve (someone).",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "(heading) Emotionally negative.",
+            "example": ""
+        }
+    ],
+    "disheartened": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To discourage someone by removing their enthusiasm or courage.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Discouraged, despairing.",
+            "example": ""
+        }
+    ],
+    "exhausted": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To draw or let out wholly; to drain off completely",
+            "example": "Moisture of the earth is exhausted by evaporation."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Very tired; in a state of exhaustion.",
+            "example": "The exhausted man fell asleep immediately."
+        }
+    ],
+    "spent": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To pay out (money).",
+            "example": "He spends far more on gambling than he does on living proper."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Consumed, used up, exhausted, depleted.",
+            "example": "a spent cartridge"
+        }
+    ],
+    "shocked": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To cause to be emotionally shocked, to cause (someone) to feel surprised and upset.",
+            "example": "The disaster shocked the world."
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To collect, or make up, into a shock or shocks; to stook.",
+            "example": "to shock rye"
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Surprised, startled, confused, or taken aback.",
+            "example": ""
+        }
+    ],
+    "stunned": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To incapacitate; especially by inducing disorientation or unconsciousness.",
+            "example": "Bill tried to stun the snake by striking it on the head."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Unable to act or respond; dazed; shocked.",
+            "example": ""
+        }
+    ],
+    "restless": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Not allowing or affording rest.",
+            "example": "The night before his wedding was a restless one."
+        }
+    ],
+    "annoyed": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To disturb or irritate, especially by continued or repeated acts; to bother with unpleasant deeds.",
+            "example": "Marc loved his sister, but when she annoyed him he wanted to switch her off."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Troubled, irritated by something unwanted or unliked (an annoyance); vexed.",
+            "example": ""
+        }
+    ],
+    "peeved": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To annoy; vex.",
+            "example": "He was peeved to note that his hard work had been undone."
+        }
+    ],
+    "apathetic": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Void of feeling; not susceptible of deep emotion",
+            "example": ""
+        }
+    ],
+    "bored": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To inspire boredom in somebody.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Suffering from boredom; mildly annoyed and restless through having nothing to do",
+            "example": ""
+        }
+    ],
+    "tired": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To become sleepy or weary.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To dress or adorn.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To seize, pull, and tear prey, as a hawk does.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "In need of some rest or sleep.",
+            "example": ""
+        }
+    ],
+    "fatigued": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To tire or make weary by physical or mental exertion",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Tired; weary.",
+            "example": ""
+        }
+    ],
+    "drained": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To lose liquid.",
+            "example": "The clogged sink drained slowly."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Lacking motivation and energy; very tired; knackered.",
+            "example": "I felt so drained after that three-hour exam that I wanted to sleep for the next week."
+        }
+    ],
+    "surprised": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To cause (someone) to feel unusually alarmed or delighted by something unexpected.",
+            "example": "It surprises me that I owe twice as much as I thought I did."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Caused to feel surprise, amazement or wonder, or showing an emotion due to an unexpected event.",
+            "example": ""
+        }
+    ],
+    "hyper": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "Hyperextension exercise",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "noun",
+            "definition": "Hyperspace",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Hyperactive",
+            "example": ""
+        }
+    ],
+    "energized": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To invigorate; to make energetic.",
+            "example": ""
+        }
+    ],
+    "pleased": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To make happy or satisfy; to give pleasure to.",
+            "example": "Her presentation pleased the executives."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Happy, content",
+            "example": ""
+        }
+    ],
+    "pleasant": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Giving a sense of happy satisfaction or enjoyment.",
+            "example": "A very pleasant evening"
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Giving pleasure; pleasing in manner.",
+            "example": "It wasn't so hot outside, but pleasant enough to have lunch in the garden."
+        }
+    ],
+    "at ease": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "(in a person) The state of being calm; peacefulness; absence of worry, anger, fear or other strong negative emotion.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To make calm.",
+            "example": "to calm a crying baby"
+        }
+    ],
+    "calm": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "(in a person) The state of being calm; peacefulness; absence of worry, anger, fear or other strong negative emotion.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To make calm.",
+            "example": "to calm a crying baby"
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "(of a person) Peaceful, quiet, especially free from anger and anxiety.",
+            "example": ""
+        }
+    ],
+    "relaxed": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To calm down.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Having an easy-going mood or temperament.",
+            "example": "He's a relaxed kind of guy, he never lets himself get upset."
+        }
+    ],
+    "mellow": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "A relaxed mood.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To make mellow; to relax or soften.",
+            "example": "The fervour of early feeling is tempered and mellowed by the ripeness of age."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Soft or tender by reason of ripeness; having a tender pulp.",
+            "example": "a mellow apple"
+        }
+    ],
+    "sleepy": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "The gum that builds up in the eye; sleep, gound.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Tired; feeling the need for sleep.",
+            "example": ""
+        }
+    ],
+    "upbeat": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "An unaccented beat at the start of a musical phrase.",
+            "example": "The conductor said: I give you three beats for nothing and then you come in on the upbeat."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Having a fast pace, tempo, or beat.",
+            "example": "The notes are easy, but it's an upbeat tune and should be played fairly quickly."
+        }
+    ],
+    "cheerful": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Noticeably happy and optimistic.",
+            "example": ""
+        }
+    ],
+    "lively": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "Term of address.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Full of life; energetic.",
+            "example": ""
+        }
+    ],
+    "happy": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "A happy event, thing, person, etc.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "noun",
+            "definition": "Preceded by the: happy people as a group.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "Often followed by up: to become happy; to brighten up, to cheer up.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Having a feeling arising from a consciousness of well-being or of enjoyment; enjoying good of any kind, such as comfort, peace, or tranquillity; blissful, contented, joyous.",
+            "example": "Music makes me feel happy."
+        }
+    ],
+    "joyful": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Feeling or causing joy.",
+            "example": ""
+        }
+    ],
+    "easygoing": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "(of a person) calm, relaxed, casual and informal",
+            "example": ""
+        }
+    ],
+    "secure": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To make safe; to relieve from apprehensions of, or exposure to, danger; to guard; to protect.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Free from attack or danger; protected.",
+            "example": ""
+        }
+    ],
+    "chill": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "A moderate, but uncomfortable and penetrating coldness.",
+            "example": "There was a chill in the air."
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To lower the temperature of something; to cool",
+            "example": "Chill before serving."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Moderately cold or chilly.",
+            "example": "A chill wind was blowing down the street."
+        }
+    ],
+    "festive": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Having the atmosphere, decoration, or attitude of a festival, holiday, or celebration.",
+            "example": "The room was decked out in festive streamers, with flowers everywhere."
+        }
+    ],
+    "motivated": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To provide someone with an incentive to do something; to encourage.",
+            "example": "The weekly staff meeting was meant to motivate employees."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Enthusiastic, especially about striving toward a goal.",
+            "example": "We're looking for a highly motivated individual who will fit into our fast-paced corporate culture."
+        }
+    ],
+    "focused": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "(followed by on or upon) To concentrate one's attention.",
+            "example": "I have to focus on my work."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Directing all one's efforts towards achieving a particular goal.",
+            "example": ""
+        }
+    ],
+    "enthusiastic": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "With zealous fervor; excited, motivated.",
+            "example": "an enthusiastic lover of art"
+        }
+    ],
+    "optimistic": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Expecting the best in all possible ways.",
+            "example": "in an optimistic mood"
+        }
+    ],
+    "hopeful": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "Someone who is hoping for success or victory, especially as a candidate in a political election.",
+            "example": "Several presidential hopefuls are campaigning in New Hampshire this week."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Feeling hope",
+            "example": "I am hopeful that I will recover from the disease."
+        }
+    ],
+    "content": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "(except in phrases) Satisfaction, contentment; pleasure.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To give contentment or satisfaction; to satisfy; to make happy.",
+            "example": "You can't have any more - you'll have to content yourself with what you already have."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Satisfied",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "interjection",
+            "definition": "Alright, agreed",
+            "example": ""
+        }
+    ],
+    "satisfied": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To do enough for; to meet the needs of; to fulfill the wishes or requirements of.",
+            "example": "I'm not satisfied with the quality of the food here."
+        }
+    ],
+    "restful": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Peaceful; having a peaceful aspect",
+            "example": "After a hard day, Sue found the beauty of the park especially restful."
+        }
+    ],
+    "thoughtful": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Demonstrating thought or careful consideration.",
+            "example": "Most thoughtful people eventually solve the puzzle."
+        }
+    ],
+    "peaceful": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Not at war or disturbed by strife or turmoil.",
+            "example": "peaceful protest"
+        }
+    ],
+    "exhilarated": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To cheer, to cheer up, to gladden, to make happy.",
+            "example": "Good news exhilarates the mind; wine exhilarates the drinker."
+        }
+    ],
+    "complacent": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Uncritically satisfied with oneself or one's achievements; smug.",
+            "example": ""
+        }
+    ],
+    "tranquil": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Free from emotional or mental disturbance.",
+            "example": ""
+        }
+    ],
+    "inspired": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To infuse into the mind; to communicate to the spirit; to convey, as by a divine or supernatural influence; to disclose preternaturally; to produce in, as by inspiration.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Having excellence through inspiration.",
+            "example": "The actor's inspired performance of Hamlet's soliloquy left the audience dumbfounded."
+        }
+    ],
+    "proud": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Feeling honoured (by something); feeling happy or satisfied about an event or fact; gratified.",
+            "example": "I am proud of Sivu’s schoolwork."
+        }
+    ],
+    "playful": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Liking play, prone to play frequently, such as a child or kitten; rather sportive.",
+            "example": "Actually, we are pretty playful in our romantic life."
+        }
+    ],
+    "loving": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "(usually transitive, sometimes intransitive, stative) To have a strong affection for (someone or something).",
+            "example": "I love my spouse.   I love you!"
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To praise; commend.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "noun",
+            "definition": "The action of the verb to love.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Expressing a large amount of love to other people; affectionate.",
+            "example": "his loving wife"
+        }
+    ],
+    "grateful": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Appreciative; thankful.",
+            "example": "I'm grateful that you helped me out."
+        }
+    ],
+    "blessed": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To make something holy by religious rite, sanctify.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Having divine aid, or protection, or other blessing.",
+            "example": ""
+        }
+    ],
+    "comfy": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Comfortable.",
+            "example": "The robe and slippers were so warm and comfy she just fell asleep in her chair."
+        }
+    ],
+    "cozy": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "A padded or knit covering put on an item to keep it warm, especially a teapot or egg.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To become snug and comfortable.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Affording comfort and warmth; snug; social",
+            "example": ""
+        }
+    ],
+    "ecstatic": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "(in the plural) Transports of delight; words or actions performed in a state of ecstasy.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Feeling or characterized by ecstasy.",
+            "example": ""
+        }
+    ],
+    "elated": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To make joyful or proud.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Extremely happy and excited; delighted; pleased, euphoric.",
+            "example": "She was elated with her new car."
+        }
+    ],
+    "excited": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To stir the emotions of.",
+            "example": "The fireworks which opened the festivities excited anyone present."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Having great enthusiasm.",
+            "example": "He was very excited about his promotion."
+        }
+    ],
+    "thrilled": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To suddenly excite someone, or to give someone great pleasure; to (figuratively) electrify; to experience such a sensation.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To drill and thread in one operation, using a tool bit that cuts the hole and the threads in one series of computer-controlled movements.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Extremely excited or delighted.",
+            "example": "Ben was thrilled to lead the game."
+        }
+    ],
+    "blissful": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Extremely happy; full of joy; experiencing, indicating, causing, or characterized by bliss.",
+            "example": ""
+        }
+    ],
+    "fulfilled": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To satisfy, carry out, bring to completion (an obligation, a requirement, etc.).",
+            "example": "You made a promise, son, and now you must fulfill it."
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Emotionally satisfied; feeling a sense of fulfilment.",
+            "example": ""
+        }
+    ],
+    "touched": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Emotionally moved (by), made to feel emotion (by).",
+            "example": "I was touched that he should remember my birthday."
+        }
+    ],
+    "balanced": [
+        {
+            "partOfSpeech": "verb",
+            "definition": "To bring (items) to an equipoise, as the scales of a balance by adjusting the weights.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Containing elements in appropriate proportion; proportionately weighted on all dimensions and therefore unlikely to tip over.",
+            "example": "He believed he rarely got sick because of his balanced diet."
+        }
+    ],
+    "carefree": [
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Without cares or worries; free of concern or worries; without difficulty.",
+            "example": "He left his cell phone behind and enjoyed a carefree summer day at the beach."
+        }
+    ],
+    "serene": [
+        {
+            "partOfSpeech": "noun",
+            "definition": "Serenity; clearness; calmness.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "verb",
+            "definition": "To make serene.",
+            "example": ""
+        },
+        {
+            "partOfSpeech": "adjective",
+            "definition": "Peaceful, calm, unruffled.",
+            "example": "She looked at her students with joviality and a serene mentality."
+        }
+    ]
+}

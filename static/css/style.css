@@ -1,0 +1,217 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Lexend-Regular.ttf') format('truetype')
+}
+
+@font-face {
+    font-display: swap; 
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/Lexend-Medium.ttf') format('truetype')
+}
+
+@font-face {
+    font-display: swap; 
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/Lexend-Bold.ttf') format('truetype')
+}
+
+* {
+    font-family: 'Lexend', sans-serif;
+}
+
+body {
+    background: #fdfdfd;
+}
+
+/* Display: Mood Meter Input === */
+
+.range-slider {
+   height:60px;
+   font-size: 23px;
+   background:#f9f9f9;
+   border-radius:8px;
+   padding:0 20px;
+   display:flex;
+   align-items:center;
+   justify-content:space-between;
+}
+
+input[type="range"] svg {
+    margin:0 10px;
+}
+
+input[type="range"] {
+    width:100%;
+    height:3px;
+    -webkit-appearance:none;
+    background:#5D3FD3;
+    outline:none;
+}
+ 
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance:none;
+    background:#5D3FD3;
+    width:18px;
+    height:18px;
+    border-radius:50%; 
+    cursor:pointer;
+}
+
+button {
+    width: 100%;
+    margin-top: 30px;
+    border: none;
+    font-size:21px;
+    background-color: #5D3FD3;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 3px;
+    padding: 0.5em;
+    cursor: pointer;
+}
+
+#question h1,
+#moodmeter h1 {
+    font-size: 72px;
+    color: #171717;
+}
+
+.question-form {
+    width: 375px;
+    margin: auto;
+    text-align: left;
+}
+
+.question-form h3 {
+    font-size:28px;
+    color: #a3a3a3;
+    font-weight: 500;
+}
+.question-form h3 output {
+    color: #000000;
+    text-align: right;
+}
+
+#question {
+    text-align: center;
+}
+
+/* === Display: Mood Meter Result === */
+
+#result {
+    display: none;
+}
+
+#mood {
+    padding: 2em;
+    border-radius: 100px;
+    background-color: #ffffff;
+    text-align: center;
+    width:600px;
+    margin: 10vh auto 15px auto;
+}
+
+#mood h2 {
+    font-size: 87px;
+    color: #171717;
+    margin:0;
+    padding:0;
+}
+
+#meaning {
+    text-align: center;
+    width:600px;
+    margin:auto;
+}
+
+.partOfSpeech {
+    margin: 15px 0;
+    background-color:#f5f5f5;
+    color: #6a6a6a;
+    border-radius: 50px;
+    padding: 0.4rem 1.3rem;
+    display: inline-block;
+}
+.definition {
+    font-size: 32px;
+    font-weight: bold;
+    margin:0 0 15px 0;
+    display: block;
+}
+.example {
+    color: #c5c5c5;
+    font-size:26px;
+    display: block;
+}
+
+.example::before,
+.example::after {
+    content: '"'
+}
+
+/* === Display: Mood Meter Matrix === */
+
+#moodmeter {
+    text-align: center;
+    display: none;
+}
+
+#moodmatrix {
+    display: inline-block;
+    margin: 0 auto -15px auto;
+}
+
+.matrix-box {
+    text-align: center;
+    padding: 15px 0;
+    display: inline-block;
+    width: 125px;
+    margin: 3px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+/* === General: Action buttons === */
+
+.actions {
+    margin: 10vh auto 0 auto;
+    width: 220px;
+}
+
+.action {
+    height: 100px;
+    width: 100px;
+    border-radius: 3px;
+    transition: 0.3s;
+    background-color: #F7F7F7;
+    display: inline-block;
+    margin: 3px;
+    text-align: center;
+    word-wrap: break-word;
+    text-decoration: none;
+    color: #ABABAB;
+}
+
+.action:hover > svg{
+    color: #333333;
+}
+.action:hover{
+    color: #333333;
+    box-shadow: 0px 1px 4px 0px #d4d4d4;
+}
+
+.action > svg {
+    transition: 0.3s;
+    height: 32px;
+    width: 32px;
+    display: block;
+    margin: 20px auto 5px auto;
+    color: #6b6b6b
+}

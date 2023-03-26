@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mood Meter</title>
+        <link rel="stylesheet" href="./static/css/style.css?v=1">
+        <link rel="icon" type="image/png" href="./mm-logo.png?v=1" />
+    </head>
+    <body>
+        <div id="question">
+            <h1>Mood Meter</h1>
+            <div class="question-form">
+                <div class="question-container">
+                    <h3>Energy <output id="energy-val">5</output></h3>
+                </div>
+                <div class="container">
+                    <div class="range-slider">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-battery-1" width="32" height="32" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                            <path d="M6 7h11a2 2 0 0 1 2 2v.5a.5 .5 0 0 0 .5 .5a.5 .5 0 0 1 .5 .5v3a.5 .5 0 0 1 -.5 .5a.5 .5 0 0 0 -.5 .5v.5a2 2 0 0 1 -2 2h-11a2 2 0 0 1 -2 -2v-6a2 2 0 0 1 2 -2"></path>
+                            <path d="M7 10l0 4"></path>
+                         </svg>
+                        <input id="energy" type="range" min="0" max="9" value="5" oninput="document.getElementById('energy-val').value = this.value">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-battery-3" width="32" height="32" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                            <path d="M6 7h11a2 2 0 0 1 2 2v.5a.5 .5 0 0 0 .5 .5a.5 .5 0 0 1 .5 .5v3a.5 .5 0 0 1 -.5 .5a.5 .5 0 0 0 -.5 .5v.5a2 2 0 0 1 -2 2h-11a2 2 0 0 1 -2 -2v-6a2 2 0 0 1 2 -2"></path>
+                            <path d="M7 10l0 4"></path>
+                            <path d="M10 10l0 4"></path>
+                            <path d="M13 10l0 4"></path>
+                         </svg>
+                    </div>
+                  </div>
+                <h3>Pleasantness <output id="pleasantness-val">5</output></h3>
+                <div class="container">
+                    <div class="range-slider">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mood-sad" width="32" height="32" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                            <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path>
+                            <path d="M9 10l.01 0"></path>
+                            <path d="M15 10l.01 0"></path>
+                            <path d="M9.5 15.25a3.5 3.5 0 0 1 5 0"></path>
+                         </svg>
+                        <input id="pleasantness" type="range" min="0" max="9" value="5" oninput="document.getElementById('pleasantness-val').value = this.value">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mood-smile" width="32" height="32" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                            <path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path>
+                            <path d="M9 10l.01 0"></path>
+                            <path d="M15 10l.01 0"></path>
+                            <path d="M9.5 15a3.5 3.5 0 0 0 5 0"></path>
+                         </svg>
+                    </div>
+                  </div>
+                <button id="submit" type="submit">Confirm</button>
+            </div>
+        </div>
+        <div id="result">
+            <div id="mood">
+                <h2 id="moodtext"></h2>
+            </div>
+            <div id="meaning">
+            </div>
+            <div class="actions">
+                <a href="./" class="action">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-reload" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M19.933 13.041a8 8 0 1 1 -9.925 -8.788c3.899 -1 7.935 1.007 9.425 4.747" />
+                        <path d="M20 4v5h-5" />
+                    </svg>   
+                    redo
+                </a>
+                <a href="#" class="action" id="open-matrix">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-list-details" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M13 5h8" />
+                        <path d="M13 9h5" />
+                        <path d="M13 15h8" />
+                        <path d="M13 19h5" />
+                        <path d="M3 4m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z" />
+                        <path d="M3 14m0 1a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v4a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1z" />
+                    </svg>               
+                    view chart
+                </a>
+            </div>
+        </div>
+        <div id="moodmeter">
+            <h1>Mood Meter</h1>
+            <div id="moodmatrix"></div>
+            <div class="actions">
+                <a href="./" class="action">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-pencil-minus" width="32" height="32" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                        <path d="M8 20l10.5 -10.5a2.828 2.828 0 1 0 -4 -4l-10.5 10.5v4h4z"></path>
+                        <path d="M13.5 6.5l4 4"></path>
+                        <path d="M16 18h4"></path>
+                     </svg>
+                    measure
+                </a>
+            </div>
+        </div>
+        <script src="./static/js/moodmeter.js"></script>
+    </body>
+</html>
