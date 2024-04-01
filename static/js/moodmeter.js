@@ -45,8 +45,8 @@ openMatrix.addEventListener('click', (e) => {
 
 const btn = document.querySelector('#submit');
 btn.addEventListener('click', (e) => {
-    const energy = document.getElementById('energy').value
-    const pleasantness = document.getElementById('pleasantness').value
+    const energy = document.getElementById('energy').value - 1
+    const pleasantness = document.getElementById('pleasantness').value - 1
 
     document.getElementById("question").style.display = 'none';
     document.getElementById("result").style.display = 'block';
